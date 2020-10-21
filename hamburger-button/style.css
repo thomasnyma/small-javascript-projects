@@ -19,9 +19,6 @@ button {
     padding: 1rem;
     transition: transform 0.3s ease-in-out;
     border-radius: 5px;
-}
-
-button:hover {
     cursor: pointer;
 }
 
